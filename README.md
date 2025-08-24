@@ -1,0 +1,1 @@
+This project, "AI Health Predictor," is an open-source tool developed for informational and educational purposes. It utilizes machine learning to analyze various health-related data points and provide an indicative output regarding potential health issues.
